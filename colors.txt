@@ -2,6 +2,10 @@ red
 pink
 green
 blue
-purple
 black
+indigo
+white
+
+purple
+
 brown

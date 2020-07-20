@@ -1,6 +1,10 @@
 mazda
 toyota
 honda
+lexus
+lincoln
+bmw
+
 nissan
 tesla
 ford
