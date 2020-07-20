@@ -2,3 +2,6 @@ red
 pink
 green
 blue
+black
+indigo
+white
